@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIEscreverNaFilaRabbit", "APIEscreverNaFilaRabbit\APIEscreverNaFilaRabbit.csproj", "{BE4A840D-1401-4B00-AD1F-BF1423153F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsomeFilaProject", "ConsomeFilaProject\ConsomeFilaProject.csproj", "{7A1B057B-D19B-4AB8-B810-CCF4C60927ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4A840D-1401-4B00-AD1F-BF1423153F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4A840D-1401-4B00-AD1F-BF1423153F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4A840D-1401-4B00-AD1F-BF1423153F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4A840D-1401-4B00-AD1F-BF1423153F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1B057B-D19B-4AB8-B810-CCF4C60927ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1B057B-D19B-4AB8-B810-CCF4C60927ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1B057B-D19B-4AB8-B810-CCF4C60927ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1B057B-D19B-4AB8-B810-CCF4C60927ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8335D95-124C-4876-BC5D-8A97DA9B28F2}
+	EndGlobalSection
+EndGlobal
